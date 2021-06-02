@@ -1,0 +1,374 @@
+/***------------**Extra small device(portrait phones, less than 576px)**---****/
+
+@media (max-width: 575.98px){
+	/*menu and slider start*/
+.c-class {
+    margin-top: 80px;
+    padding: 0px;
+}
+.c-class h1 {
+    margin: 20px 0;
+    font-size: 19px;
+}
+.c-class h5 {
+    letter-spacing: 0px;
+    font-size: 12px;
+    text-transform: uppercase;
+    word-spacing: 0px;
+}
+.c-btn button {
+    margin-bottom: -27px;
+}
+/*menu and slider end*/
+/*latest product section start*/
+/*.latest-title h3 {
+    font-size: 20px;
+}*/
+.box12 .title {
+    font-size: 29px;
+    }
+
+
+/*latest product section end*/
+/*Trending Items section start*/
+.item-img img{
+    margin-bottom: 30px;
+}
+.item-content h1 {
+    font-size: 18px;
+    text-align: center;
+}
+.item-content h5 {
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    text-align: center;
+}
+.tan hr {
+    margin: 10px auto;
+    width: 255px;
+}
+.item-content p {
+    text-align: justify;
+}
+.item-content h3 {
+    text-align: center;
+}
+.margin {
+    margin-right: 20px;
+}
+.margin button {
+    width: 185%;
+}
+.guide {
+    margin-right: -5px;
+}
+.juscntr{
+    justify-content: center;
+}
+.smljconcen{
+    justify-content: center;
+}
+.myindicators {
+    margin-right: 0%;
+    margin-left: 0;
+    bottom: -70px;
+}
+/*Trending Items section end*/
+/*blog section start*/
+.blog {
+    padding: 0 0 40px 0;
+}
+.previous-button, .next-button {
+    position: absolute;
+    top: -20px;
+}
+.blog-content h1 {
+    display: none;
+}
+.blog-content h3 {
+    font-size: 13px;
+}
+.blog-content p {
+    display: none;
+}
+.blog-btn {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+.blog-btn button{
+    width: 110px;
+    margin-bottom: 0;
+}
+/*blog section end*/
+/*footer start*/
+.suscribe-input {
+    margin-left: 0%;
+}
+/*end*/
+
+}
+
+/***---------------------------**Small device(landscape phones, 576px and up)****------------**/
+
+@media (min-width: 576px) and (max-width: 767.98px){
+/*menu and slider start*/
+.c-class {
+    margin-top: 80px;
+    padding: 0px;
+}
+.c-class h1 {
+    margin: 30px 0;
+    font-size: 30px;
+}
+.c-class h5 {
+    letter-spacing: 1px;
+    font-size: 16px;
+    text-transform: uppercase;
+    word-spacing: 0px;
+}
+.c-btn button {
+    margin-bottom: -27px;
+}
+/*menu and slider end*/
+/*latest product section start*/
+/*.latest-title h3 {
+    font-size: 20px;
+}*/
+.box12 .title {
+    font-size: 18px;
+    }
+
+.box14 .title {
+    margin: 85px 0;
+}
+/*latest product section end*/
+/*blog section start*/
+.blog {
+    padding: 0 0 40px 0;
+}
+.previous-button, .next-button {
+    position: absolute;
+    top: -20px;
+}
+.blog-content h1 {
+    display: none;
+}
+.blog-content p {
+    display: none;
+}
+.blog-btn {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+.blog-btn button{
+    margin-bottom: 0;
+}
+/*blog section end*/
+}
+
+/***----------------------------**Medium device(Tablets, 768px and up)****------------**/
+
+@media (min-width: 768px) and (max-width: 991.98px){
+/*menu and slider start*/
+.c-class {
+    margin-top: 80px;
+    padding: 0px;
+}
+.c-class h1 {
+    margin: 30px 0;
+    font-size: 30px;
+}
+.c-class h5 {
+    letter-spacing: 1px;
+    font-size: 16px;
+    text-transform: uppercase;
+    word-spacing: 0px;
+}
+.c-btn button {
+    margin-bottom: -27px;
+}
+/*menu and slider end*/
+/*latest product section start*/
+.latest-title h3 {
+    font-size: 32px;
+}
+.box12 .title {
+    font-size: 27px;
+    }
+
+.box14 .title {
+    margin: 85px 0;
+}
+/*latest product section end*/
+/*Trending Items section start*/
+.item-img img{
+    min-height: 400px;
+}
+.item-content h1 {
+    font-size: 25px;
+}
+.item-content h5 {
+    font-size: 16px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.tan hr {
+    margin: 10px 0;
+    width: 25px;
+}
+.item-content p {
+    font-size: 16px;
+    text-align: justify;
+}
+.item-content h3 {
+    font-size: 16px;
+}
+.margin {
+    margin-right: 0px;
+}
+.margin button {
+    width: 100%;
+}
+.guide {
+    margin-right: -20px;
+}
+.myindicators [data-bs-target] {
+    margin-right: 1%;
+    width: 15px;
+    height: 4px;
+}
+/*Trending Items section end*/
+/*blog section start*/
+.blog-content h1 {
+    font-size: 18px;
+}
+.blog-content p {
+    font-size: 14px;
+    text-align: justify;
+}
+.blog-btn {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+.blog-btn button {
+    margin-bottom: 0px;
+}
+.previous-button, .next-button {
+    position: absolute;
+    top: -75px;
+}
+/*blog section end*/
+}
+
+/***----------------------------**Large device(Large Leptop and dekstop, 992px and up)****------------**/
+
+@media (min-width: 992px) and (max-width: 1199.98px){
+/*menu and slider start*/
+.c-class h1 {
+	margin: 40px 0;
+    font-size: 45px;
+    
+}
+.c-class h5 {
+    letter-spacing: 2px;
+    font-size: 23px;
+    text-transform: uppercase;
+    word-spacing: 3px;
+}
+.custom-nav a {
+    margin-right: 22px;
+}
+/*menu and slider end*/
+/*latest product section start*/
+/*.latest-title h3 {
+    font-size: 38px;
+}*/
+.box12 .title {
+    font-size: 36px;
+    }
+
+.box14 .title {
+    margin: 115px 0;
+}
+/*latest product section end*/
+/*Trending Items section start*/
+.tan hr {
+    margin: 10px 0;
+}
+.item-content p {
+    font-size: 16px;
+    }
+/*Trending Items section end*/
+/*blog section start*/
+.blog {
+    padding: 0 0 60px 0;
+}
+.blog-content h1 {
+    font-size: 25px;
+}
+.blog-content p {
+    font-size: 15px;
+    text-align: justify;
+}
+.blog-btn {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+/*blog section end*/
+}
+/***----------------------------**Extra Large device(Extra large Leptop and dekstop, 1200px and up)****------------**/
+
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+	
+
+}
+
+/***--------------------**Extra extra Large device(Extra extra large Leptop and dekstop, 1400px and up)****--------**/
+
+@media (min-width: 1400px) and (max-width: 1699.98px){
+/*blog section start*/
+.blog-content h1{
+    font-size: 30px;
+}
+/*blog section end*/
+}
+@media (min-width: 1700px) and (max-width: 1899.98px){
+
+	
+
+}
+@media (min-width: 1900px){
+/*menu and slider start*/
+.c-class h1{
+	margin: 45px 0;
+	font-family: 'Lato', sans-serif;
+	font-size: 60px;
+	font-weight: 900px;
+	text-transform: uppercase;
+
+}
+.c-class h5 {
+    letter-spacing: 3px;
+    font-size: 30px;
+    text-transform: uppercase;
+    word-spacing: 7px;
+}
+/*menu and slider end*/
+/*Trending Items section start*/
+.item-content p{
+    font-size: 18px;
+}
+.tan hr{
+    margin: 18px 0;
+    width: 32px;
+}
+/*Trending Items section end*/
+/*blog section start*/
+
+/*blog section end*/
+}
